@@ -1,6 +1,6 @@
 const translation = {
   common: {
-    welcome: '歡迎使用',
+    welcome: '有問題想問？ZoEasyAI為您服務',
     appUnavailable: '應用不可用',
     appUnkonwError: '應用不可用',
   },
